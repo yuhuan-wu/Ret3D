@@ -27,7 +27,7 @@ Under construction.
 
 ````
 @article{wu2025ret3d,
-  author  = {Wu, Yu-Huan and Zhang, Da and Liu, Yun and others},
+  author  = {Wu, Yu-Huan and Zhang, Da and Liu, Yun and Zhang, Le and Cheng, Ming-Ming},
   title   = {Ret3D: rethinking object relations for efficient 3D object detection},
   journal = {Sci~Sin~Inform},
   year    = {2025},

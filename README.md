@@ -25,6 +25,7 @@ Under construction.
 
 ### Citation
 
+````
 @article{wu2025ret3d,
   author  = {Wu, Yu-Huan and Zhang, Da and Liu, Yun and others},
   title   = {Ret3D: rethinking object relations for efficient 3D object detection},
@@ -36,3 +37,4 @@ Under construction.
   doi     = {10.1360/SSI-2024-0295},
   url     = {https://doi.org/10.1360/SSI-2024-0295}
 }
+````
